@@ -1,0 +1,81 @@
+.PaSE{
+    width: 100%;
+    color:rgb(16, 6, 31);
+    font-size: 40px;
+}
+
+.card {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 8px 8px 0 rgba(15, 15, 15, 0.932);
+  transition: 0.3s;
+  border-radius: 10px;
+  
+}
+
+
+.card1 {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 8px 8px 0 rgba(172, 5, 5, 0.822);
+  transition: 0.3s;
+  border-radius: 10px;
+  border-color: red;
+}
+
+
+
+/* On mouse-over, add a deeper shadow */
+.card:hover {
+  box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+
+}
+
+
+/* On mouse-over, add a deeper shadow */
+.card1:hover {
+  box-shadow: 0 8px 16px 0 rgba(247, 8, 8, 0.2);
+
+  
+}
+
+/* Add some padding inside the card container */
+.container {
+  padding: 2px 16px;
+}
+
+h4{
+
+
+    text-align: center;
+    color:red;
+}
+
+
+p{
+
+
+
+
+    text-align: left;
+    columns: rgb(255, 0, 0);
+}
+
+
+
+.table {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 8px 8px 0 rgba(15, 15, 15, 0.932);
+  transition: 0.3s;
+  border-radius: 10px;
+}
+
+
+.two{
+  color: red;
+  
+}
+
+.three{
+  color: green;
+}
+
+
